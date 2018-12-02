@@ -4,7 +4,7 @@ This plugin inserts additonal buttons into the flexcheckout mask of PostFinance 
 Depending on the brand, a valid card, am invalid card and a card with 3D secure is provided.
 
 
-Install Link:  
+Install Link:  https://chrome.google.com/webstore/detail/test-creditcards-for-post/ikghmkdkihbhgpfmaaidhobbhfkdhdfp?hl=de
 
 
 Credits: Lurin, as always
