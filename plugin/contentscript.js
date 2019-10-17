@@ -91,8 +91,8 @@
       number: "371449635311004",
       cvc: "1234",
       valid: true,
-	  title : '/wo 3DS V1',
-	  desc : 'valid card without 3D secure'
+	  title : '/w 3DS V1',
+	  desc : 'valid card with 3D secure'
     },
     {
       type: "american express",
@@ -105,7 +105,7 @@
 	{ 
 		type: "american express", 
 		number: "375418081197346", 
-		cvc: "123", 
+		cvc: "1234", 
       valid: true,
 	  title : '/wo 3DS V2',
 	  desc : 'valid card with 3D secure V2 frictionless, no 3DS screen'
@@ -113,7 +113,7 @@
 	{ 
 		type: "american express", 
 		number: "379764422997381", 
-		cvc: "123", 
+		cvc: "1234", 
       valid: true,
 	  title : '/w 3DS V2',
 	  desc : 'valid card with 3D secure V2 with ACS Challenge Simulator'
